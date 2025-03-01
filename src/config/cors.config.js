@@ -1,4 +1,4 @@
-const whitelist = ["http://localhost:5173"];
+const whitelist = ["*"];
 
 const corsOptions = {
   origin: function (origin, callback) {
