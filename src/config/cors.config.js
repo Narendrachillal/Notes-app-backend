@@ -1,4 +1,4 @@
-const whitelist = ["https://notes-app-frontend-ihon.onrender.com"];
+const whitelist = ["https://notes-app-frontend-56wo.onrender.com"];
 
 const corsOptions = {
   origin: function (origin, callback) {
